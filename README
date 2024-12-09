@@ -1,2 +1,3 @@
 A simple implement of PV power prediction.
-from https://www.cnblogs.com/chenzibai/p/16306019.html
+Implemented by Pytorch.
+Reference: https://www.cnblogs.com/chenzibai/p/16306019.html
