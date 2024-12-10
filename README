@@ -3,4 +3,4 @@ Implemented by Pytorch.
 Reference: https://www.cnblogs.com/chenzibai/p/16306019.html
 Dataset Source:
 For demo1.ipynb Download "1,058.4kW, poly-Si, Fixed, 2016, Desert Gardens" from https://dkasolarcentre.com.au/download?location=yulara
-For demo2.ipynb Using './data_original/solar_stations/Solar station site 4 (Nominal capacity-130MW).xlsx' from https://github.com/Bob05757/Renewable-energy-generation-input-feature-variables-analysis
+For demo2.ipynb Using './data_original/solar_stations/Solar station site 4 (Nominal capacity-130MW).xlsx' from https://github.com/Bob05757/Renewable-energy-generation-input-feature-variables-analysis which is the dataset provided by [Solar and wind power data from the Chinese State Grid Renewable Energy Generation Forecasting Competition](https://www.nature.com/articles/s41597-022-01696-6#citeas)
