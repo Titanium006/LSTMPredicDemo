@@ -1,4 +1,6 @@
 A simple implement of PV power prediction using LSTM.
 Implemented by Pytorch.
 Reference: https://www.cnblogs.com/chenzibai/p/16306019.html
-Dataset Source: Download "1,058.4kW, poly-Si, Fixed, 2016, Desert Gardens" from https://dkasolarcentre.com.au/download?location=yulara
+Dataset Source:
+For demo1.ipynb Download "1,058.4kW, poly-Si, Fixed, 2016, Desert Gardens" from https://dkasolarcentre.com.au/download?location=yulara
+For demo2.ipynb Using './data_original/solar_stations/Solar station site 4 (Nominal capacity-130MW).xlsx' from https://github.com/Bob05757/Renewable-energy-generation-input-feature-variables-analysis
